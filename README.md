@@ -1,7 +1,10 @@
 # Portfolio
 
-# Heading 1
+# Methodology
+This is where I will write about my methodology process.
 
-## Heading 2
+## Data collection
+This is how I collected my data.
 
-### Heading 3
+## Data analysis
+### Data analysis part 1
