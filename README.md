@@ -1,4 +1,4 @@
-#Recent projects
+# Recent projects
 
 ## Predicting customer payment methods with logistic regression
 
