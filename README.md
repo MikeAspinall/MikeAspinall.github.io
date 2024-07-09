@@ -10,7 +10,9 @@ I used a k-means clustering model to simplify a large dataset of beers into dist
 ![Payment prediction](/assets/beer_landscape.jpg)
 
 <br/>
+
 ---
+
 <br/>
 
 ## Predicting customer payment methods with logistic regression
