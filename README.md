@@ -1,16 +1,5 @@
-# Project Title
+# Hello, I'm Mike 👋
+## I love data. From my early school days (when maths was my favourite subject), through my Masters degree in analytical Chemistry, to my 10+ year career in CRM and digital marketing – numbers, data and analytics have always been a big part of my life.
 
-# Methodology
-This is where I will write about my methodology process.
-
-## Data collection
-This is how I collected my data.
-
-## Data analysis
-### Data analysis part 1
-
-# Image subsection
-![robot](assets/robot.jpg)
-
-# URL Links
-[Markdown sheet](https://www.markdownguide.org/cheat-sheet/) 
+## My next evolution: Data Science
+xxx
