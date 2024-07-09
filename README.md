@@ -5,6 +5,4 @@
 I'm currently pursuing a BSc in Data Science; a journey that I'm absolutely thrilled to be on. Data Science combines my love of data (of course) with my craving for creativity and drive to deliver real-life impact through my work. This portfolio is the start of my documentation of this journey.
 
 ## My key skills
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg | width=100) Python (confident beginner)
-
-<img src="[https://your-image-url.type](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100"> Python (confident beginner)
