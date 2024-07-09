@@ -39,7 +39,3 @@ header_pages:
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
   skin: classic
-
-```yaml
-theme: minima
-```
