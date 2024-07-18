@@ -13,6 +13,6 @@ I'm currently pursuing a BSc in Data Science; a journey that I'm absolutely thri
 ### My key skills
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50"> Python (confident beginner)
 
-<img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.emito.net%2Fl%2Fhttp%2Fb15.beauty%2Fsql-database-logo&psig=AOvVaw1Q6l6z8tSYciMSPTJh_IK3&ust=1721380426048000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJie3emfsIcDFQAAAAAdAAAAABAR" width="50"> SQL (confident beginner)
+<img src="https://github.com/MikeAspinall/MikeAspinall.github.io/blob/main/assets/sql_logo.svg" width="50"> SQL (confident beginner)
 
 Analytics, visualisation, CRM, marketing
