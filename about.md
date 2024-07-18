@@ -11,8 +11,15 @@ permalink: /about/
 I'm currently pursuing a BSc in Data Science; a journey that I'm absolutely thrilled to be on. Data science combines my love of data (of course) with my craving for creativity and drive to deliver real-world impact. This portfolio documents the start of my data science journey.
 
 ### My key skills
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50"> Python (confident beginner)
 
-<img src="https://github.com/MikeAspinall/MikeAspinall.github.io/blob/main/assets/sql-database-generic.jpg" width="50"> SQL (confident beginner)
+**CRM and database management**
+My decade-long career in CRM has covered diverse retail industries; from fashion and homeware, to FMCG and confectionary.
 
-Analytics, visualisation, CRM, marketing
+**Analytics**
+I have over 10 years of experience in data-centric, analytics-focussed roles, using a variety of tools and skills.
+
+**Data visualisation**
+From dashboards to stage presentations, I have strong experience in communicating and visualising data to varied audience types.
+
+**Python**
+I'm a confident beginner with Python, and actively learning more every week. This portfolio showcases a few of my recent Python projects.
