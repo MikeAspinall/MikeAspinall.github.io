@@ -7,10 +7,10 @@ permalink: /about/
 ## Hello, I'm Mike 👋
 **I love data. From my early school days (maths was my favourite subject), through my Masters degree in Chemistry, to my 10+ year career in digital marketing – numbers, data and analytics have always been a big part of my life.**
 
-### My next evolution: Data Science
+### My next evolution: Data Science 📊
 I'm currently pursuing a BSc in Data Science; a journey that I'm absolutely thrilled to be on. Data science combines my love of data (of course) with my craving for creativity and drive to deliver real-world impact. This portfolio documents the start of my data science journey.
 
-### My key skills
+### My key skills 💪
 
 **CRM and database management**
 My decade-long career in CRM has covered diverse retail industries; from fashion and homeware, to FMCG and confectionary.
